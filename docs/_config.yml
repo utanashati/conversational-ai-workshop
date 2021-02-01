@@ -1,4 +1,5 @@
-name: ":robot: Can your AI beat the Turing test?"
+name: Conversational AI Workshop
+title: ":robot: Can your AI beat the Turing test?"
 description: Conversational AI Workshop
 theme: jekyll-theme-cayman
 plugins:
