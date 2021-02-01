@@ -2,5 +2,6 @@ name: Can your AI beat the Turing test?
 title: Can your AI beat the Turing test?
 description: "Conversational AI :robot: Workshop"
 theme: jekyll-theme-cayman
+markdown: GFM
 plugins:
   - jemoji
