@@ -11,10 +11,12 @@ Hello 👋 and welcome to this workshop repo!
 
 ## Task 1: Understanding language models
 
-* [Slides](https://docs.google.com/presentation/d/1KOkNW20FiZweTkD-Xtl_oxTpIY5aU6ahMalD4IU3J5Y/edit?usp=sharing)
+### Slides
+* [Intro](https://docs.google.com/presentation/d/1KOkNW20FiZweTkD-Xtl_oxTpIY5aU6ahMalD4IU3J5Y/edit?usp=sharing)
 
-Task 1a:
+### Colabs
+#### Task 1a:
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/utanashati/conversational-ai-workshop/blob/main/1/Conversational_AI_workshop_Task_1a.ipynb)
 
-Task 1b:
+#### Task 1b:
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/utanashati/conversational-ai-workshop/blob/main/1/Conversational_AI_workshop_Task_1b.ipynb)
