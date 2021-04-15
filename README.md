@@ -7,7 +7,7 @@ Hello 👋 and welcome to this workshop repo!
 * [MiTeam WWW conference](https://theweb.miteam.eu/asset/76MtEfcYKQYkwCYRF)
 
 
-⚠️ Note that most of this workshop will be held over Zoom. Find the Zoom link on our tutorial website on the MiTeam platform.
+⚠️ Note that most of this workshop will be held over Zoom. Find the Zoom link on our tutorial website on the MiTeam platform. ⚠️ 
 
 ## Task 1: Understanding language models
 
