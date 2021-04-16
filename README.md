@@ -20,3 +20,15 @@ Hello 👋 and welcome to this workshop repo!
 
 #### Task 1b:
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/utanashati/conversational-ai-workshop/blob/main/1/Conversational_AI_workshop_Task_1b.ipynb)
+
+## Task 3: Language models risks & caveats
+
+### Slides
+* [Intro](https://docs.google.com/presentation/d/1W1jjbAgRD6nQrUXzbtzLo52lT14MUfAzSeRCKEyr2yY/edit?usp=sharing)
+
+### Colabs
+#### Task 3a:
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1awcjmoZKpYiKC_fw-aLqWvvgTWaIKrQk?usp=sharing)
+
+#### Task 3b:
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QMLhZBTWwaZP1N-O6sZYSnWeztVf1AE3?usp=sharing)
